@@ -1,0 +1,22 @@
+There were no additional changes made to this program besides the program
+specifications. In this program, the main method is contained in the file
+digraph_analyzer.cpp, and this main function calls functions that are declared
+and defined in digraph_functions.h and digraph_functions.cpp.
+
+The function stringStream_to_vector serves to take contents of a stringstream
+and put them into a vector. This function was useful when storing the inputted
+digraphs. The function formattedString formats a string by converting it to
+lowercase and removing punctutation; this was helpful in keeping consistency in
+how strings are modified throughout the program. The function isNumber checks 
+if a string is a number, and this was helpful when taking in the user queries.
+Lastly, several print functions were created. printMap prints the contents of the
+map to the console depending on the order given. printDigraphWords is an overloaded
+function that prints the words coresponding to a specific digraph, and printDigraphWordsWithSize
+is essentially the same function but it prints the size at the front.
+
+I thought it was clever how I overloaded the function printDigraphWords so it could
+take both iterators and reverse iterators as input. I also thought the use of references
+was useful, as it allowed me to directly modify containers.
+
+I was able to complete all the program requirements to my knowledge.
+

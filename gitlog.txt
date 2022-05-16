@@ -1,0 +1,31 @@
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Tue Apr 5 08:23:12 2022 -0500
+
+    Added comments, created README file, preformed tests (valgrind, etc.).
+
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Apr 4 03:30:40 2022 -0500
+
+    Able to take user queries and preform output using the created functions.
+
+
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Sat Apr 2 10:36:22 2022 -0500
+
+    Debugged program. Now able to print out the map for each command; made new functions for readability.
+
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Sat Apr 2 12:36:45 2022 -0400
+
+    Stores input in a vector and a map as needed. Able to find all the digraph in the paragraph and also keep track of the words its found in.
+
+
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Apr 1 02:10:42 2022 -0400
+
+    Able to take input from input file. Wrote make file, and created header files.
